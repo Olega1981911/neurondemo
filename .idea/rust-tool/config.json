@@ -1,0 +1,10 @@
+{
+  "apiBox": true,
+  "apiSuffix": "_api.rs",
+  "dtoSuffix": "Dto",
+  "logicBox": true,
+  "logicSuffix": "_logic.rs",
+  "modelBox": true,
+  "url": "http://localhost:8080",
+  "webBox": 0
+}
